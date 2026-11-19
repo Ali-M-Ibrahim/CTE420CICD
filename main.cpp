@@ -3,5 +3,6 @@ using namespace std;
 
 int main() {
     cout << 2 + 3 << '\n';
+	
     return 0;
 }
